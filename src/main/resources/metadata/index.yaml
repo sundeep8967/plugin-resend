@@ -1,8 +1,8 @@
-group: io.kestra.plugin.templates
-name: "template"
-title: "Template"
-description: "Plugin template for Kestra"
+group: io.kestra.plugin.resend
+name: "resend"
+title: "Resend"
+description: "Tasks for sending emails with Resend"
 body: ""
 videos: []
-createdBy: "Kestra Core Team"
-managedBy: "Kestra Core Team"
+createdBy: "Kestra Community"
+managedBy: "Kestra Community"
